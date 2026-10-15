@@ -27,6 +27,16 @@ Ultimately, NetSentinel demonstrates high-throughput, low-latency intrusion dete
 
 ---
 
+## 📚 Research Paper & Academic References
+
+The theoretical architecture, detection algorithms, and concurrency models of NetSentinel are documented in our formal IEEE-format research paper:
+
+* **[NetSentinel: A High-Throughput Pure-Java Network Security Monitoring and Hybrid Intrusion Detection Architecture](https://drive.google.com/file/d/1D-LSLqPWWrIrxhxEKiSPcmflTx5EQ_lb/view?usp=drive_link)**  
+  *Authors:* Nikhil Kumar, Nandlal Upman, Piyush Agarwal, Mayank Jangid, Parikshit Vyas, and Er. Ram Babu Buri (2026).  
+  *Scope & Relevance:* Establishes the mathematical foundation for Shannon port entropy detection, evaluates Project Loom virtual thread concurrency for zero-packet-drop decoy honeypots, and presents empirical throughput benchmarks ($1,450\text{ pkts/sec}$) against physical network scans.
+
+---
+
 ## Quick Start & System Execution Guide
 
 ### 1. Prerequisites & Required Downloads
@@ -112,7 +122,7 @@ NetSentinel enforces role separation across the detection, administration, and a
 
 ### SRS Document
 
-You can access the [Project SRS Specification](https://drive.google.com/file/d/1U94Wvz6jw_OCSx7MUx1-NTQCGawGSsLN/view?usp=drive_link)
+You can access the [Project SRS Specification](https://drive.google.com/file/d/1W6csrxtmahUfQyc7avRopGIWrp0ain2O/view?usp=drive_link)
 
 ---
 
@@ -536,8 +546,9 @@ Member 5 created the primary user-facing deliverable: the Security Operations Ce
 | :--- | :--- | :--- |
 | 📄 **Final Project Report** | Complete Technical Architecture Document, System Requirements Specification (SRS), and Evaluation Metrics | [View Project Report (PDF)](https://drive.google.com/file/d/1Q9X1gUlkAxkplrki-BD0pmbNv1QCJUZt/view?usp=drive_link) \| [`README.md`](./README.md) |
 | 📊 **Presentation Deck (PPT)** | 20-Slide B.Tech Final Project Evaluation Deck covering System Design, Detection Pipeline & Live Demo | [View Presentation (PPT / Slides)](https://drive.google.com/file/d/14r4SZSAvWsc9oE66Zm1O6X7aotqk-oMy/view?usp=drive_link) |
-| 🧪 **System Integration & Testing Report** | Complete Weeks 9–12 E2E Integration, Multi-Host LAN Testing & Performance Benchmarks | [`SYSTEM_INTEGRATION_AND_TESTING_REPORT.md`](./SYSTEM_INTEGRATION_AND_TESTING_REPORT.md) |
-| 📘 **Team Collaboration SOP** | Official Team Leader Git Workflow Manual: Branching, Pull Requests & Architecture Protocol | [View Collaboration SOP (PDF)](./TEAM_LEADER_AND_COLLABORATION_GUIDE.pdf) \| [Markdown Guide](./TEAM_LEADER_AND_COLLABORATION_GUIDE.md) |
+| 🧪 **System Integration & Testing Report** | E2E Integration, Multi-Host LAN Testing & Performance Benchmarks | [`SYSTEM_INTEGRATION_AND_TESTING_REPORT.md`](https://drive.google.com/file/d/13Uc8kOHK389Dq_RMS_dln4taWn7hM6zH/view?usp=drive_link) |
+| 📘 **Team Collaboration SOP** | Official Team Leader Git Workflow Manual: Branching, Pull Requests & Architecture Protocol | [View Collaboration SOP (PDF)](https://drive.google.com/file/d/1plK9wlKtybVS4FbVYaioXFF67Wv9K1Vp/view?usp=drive_link) |
+| 📅 **13-Week Project Plan & Reports** | 13-Week Master Roadmap, Weekly Progress Reports & Daily Diary (July 6 – Oct 6, 2026; 78 Operating Days) | [Download Excel (`.xlsx`)](https://docs.google.com/spreadsheets/d/1HN_LzXZOUlFGL79SO0cHzMAZEYLUyVni/edit?usp=drive_link&ouid=105497965226432012186&rtpof=true&sd=true) |
 
 ---
 
