@@ -112,7 +112,7 @@ NetSentinel enforces role separation across the detection, administration, and a
 
 ### SRS Document
 
-You can access the [Project SRS Specification](https://drive.google.com/file/d/-----)
+You can access the [Project SRS Specification](https://drive.google.com/file/d/1U94Wvz6jw_OCSx7MUx1-NTQCGawGSsLN/view?usp=drive_link)
 
 ---
 
@@ -534,8 +534,8 @@ Member 5 created the primary user-facing deliverable: the Security Operations Ce
 
 | Deliverable | Description | Resource Link |
 | :--- | :--- | :--- |
-| 📄 **Final Project Report** | Complete Technical Architecture Document, System Requirements Specification (SRS), and Evaluation Metrics | [View Project Report (PDF)](https://drive.google.com/file/d/---/view?usp=drive_link) \| [`README.md`](./README.md) |
-| 📊 **Presentation Deck (PPT)** | 20-Slide B.Tech Final Project Evaluation Deck covering System Design, Detection Pipeline & Live Demo | [View Presentation (PPT / Slides)](https://drive.google.com/file/d/---/view?usp=drive_link) |
+| 📄 **Final Project Report** | Complete Technical Architecture Document, System Requirements Specification (SRS), and Evaluation Metrics | [View Project Report (PDF)](https://drive.google.com/file/d/1Q9X1gUlkAxkplrki-BD0pmbNv1QCJUZt/view?usp=drive_link) \| [`README.md`](./README.md) |
+| 📊 **Presentation Deck (PPT)** | 20-Slide B.Tech Final Project Evaluation Deck covering System Design, Detection Pipeline & Live Demo | [View Presentation (PPT / Slides)](https://drive.google.com/file/d/14r4SZSAvWsc9oE66Zm1O6X7aotqk-oMy/view?usp=drive_link) |
 | 🧪 **System Integration & Testing Report** | Complete Weeks 9–12 E2E Integration, Multi-Host LAN Testing & Performance Benchmarks | [`SYSTEM_INTEGRATION_AND_TESTING_REPORT.md`](./SYSTEM_INTEGRATION_AND_TESTING_REPORT.md) |
 | 📘 **Team Collaboration SOP** | Official Team Leader Git Workflow Manual: Branching, Pull Requests & Architecture Protocol | [View Collaboration SOP (PDF)](./TEAM_LEADER_AND_COLLABORATION_GUIDE.pdf) \| [Markdown Guide](./TEAM_LEADER_AND_COLLABORATION_GUIDE.md) |
 
