@@ -8,13 +8,13 @@
 
 ### Team Members
 
-| # | Name | Enrollment | Email | Module |
+| # | Name | RTU Roll No. | Email | Module |
 | :-: | :--- | :--- | :--- | :--- |
-| 1 | Nandlal Upman | 24E1ARADM40P108 | naveensharmardx@gmail.com | Module 1: Packet Capture & Preprocessing |
-| 2 | Piyush Agarwal | 24E1ARADM40P120 | piyushagarwal13042006@gmail.com | Module 2: Rule-Based Detection Engine |
-| 3 | Mayank Jangid | 24E1ARADM30P097 | jangidmayank094@gmail.com | Module 3: Anomaly & ML Detection Engine |
-| 4 | Nikhil Kumar | 24E1ARADM30P110 | nikhil.its.rio@gmail.com | Module 4: Central Backend & SQLite Storage |
-| 5 | Parikshit Vyas | 24E1ARADM40P119 | vparikshit32@gmail.com | Module 5: SOC Web Dashboard & Frontend |
+| 1 | Nandlal Upman | 22EAIAI038 | naveensharmardx@gmail.com | Module 1: Packet Capture & Preprocessing |
+| 2 | Piyush Agarwal | 22EAIAI045 | piyushagarwal13042006@gmail.com | Module 2: Rule-Based Detection Engine |
+| 3 | Mayank Jangid | 22EAIAI033 | jangidmayank094@gmail.com | Module 3: Anomaly & ML Detection Engine |
+| 4 | Nikhil Kumar | 22EAIAI040 | nikhil.its.rio@gmail.com | Module 4: Central Backend & SQLite Storage |
+| 5 | Parikshit Vyas | 22EAIAI043 | vparikshit32@gmail.com | Module 5: SOC Web Dashboard & Frontend |
 
 ---
 
@@ -544,7 +544,7 @@ Member 5 created the primary user-facing deliverable: the Security Operations Ce
 
 | Deliverable | Description | Resource Link |
 | :--- | :--- | :--- |
-| 📄 **Final Project Report** | Complete Technical Architecture Document, System Requirements Specification (SRS), and Evaluation Metrics | [View Project Report (PDF)](https://drive.google.com/file/d/1Q9X1gUlkAxkplrki-BD0pmbNv1QCJUZt/view?usp=drive_link) \| [`README.md`](./README.md) |
+| 📄 **Final Project Report** | Complete Technical Architecture Document, System Requirements Specification (SRS), and Evaluation Metrics | [View Project Report (PDF)](https://drive.google.com/file/d/1FdyrsxdTYlW3aX3feGlJychTJ4YN5Bjw/view?usp=sharing) \| [`README.md`](./README.md) |
 | 📊 **Presentation Deck (PPT)** | 20-Slide B.Tech Final Project Evaluation Deck covering System Design, Detection Pipeline & Live Demo | [View Presentation (PPT / Slides)](https://drive.google.com/file/d/14r4SZSAvWsc9oE66Zm1O6X7aotqk-oMy/view?usp=drive_link) |
 | 🧪 **System Integration & Testing Report** | E2E Integration, Multi-Host LAN Testing & Performance Benchmarks | [`SYSTEM_INTEGRATION_AND_TESTING_REPORT.md`](https://drive.google.com/file/d/13Uc8kOHK389Dq_RMS_dln4taWn7hM6zH/view?usp=drive_link) |
 | 📘 **Team Collaboration SOP** | Official Team Leader Git Workflow Manual: Branching, Pull Requests & Architecture Protocol | [View Collaboration SOP (PDF)](https://drive.google.com/file/d/1plK9wlKtybVS4FbVYaioXFF67Wv9K1Vp/view?usp=drive_link) |
